@@ -2,4 +2,4 @@
 
 ## Schéma de l'Application
 
-[Image Schéma](/schema.png)
+![Image Schéma](/schema.png)
